@@ -1,0 +1,26 @@
+
+
+.card__btn{
+
+   align-items: center;
+   padding: 20px 50px;
+   text-decoration: none;
+   font-size: 1.5rem;
+   background-color: transparent;
+   color: white;  
+   border: 3px solid white;     
+   width: 100%;       
+   border-radius: 20%;
+   background-image: linear-gradient(90deg, rgba(144, 47, 115, 0.749), rgb(29, 29, 152));
+
+}
+
+.card__btn:hover{
+    
+    transform: scale(1.1);
+    box-shadow: 0 0 1em black;
+    background-color: rgb(255, 0, 0);
+    color: white;
+    
+}
+
